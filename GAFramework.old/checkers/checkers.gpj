@@ -1,0 +1,13 @@
+!188;s
+A
+SAU0
+SCU0
+S+U0
+SJU0CLASSPATH+=.%PATH_SEP\012CLASSPATH=+%PATH_SEP%EXTENSION_PATH%SEPclasses%SEPuser%PATH_SEP%EXTENSION_PATH%SEPclasses%SEPsystem\012PATH+=%JAVA_BIN_DIR%PATH_SEP
+SOU0
+SPU0
+!55;f
+%	Board.java
+%	Checkers.java
+%	Engine.java
+%	Move.java
